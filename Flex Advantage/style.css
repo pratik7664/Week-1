@@ -1,0 +1,12 @@
+.container {
+    background-color: silver;
+    width: 750px;
+    display:flex;
+}
+.col {
+    height: 400px;
+    flex: 1;
+    background-color: slateblue;
+    margin: 0px;
+    padding: 20px;
+}
